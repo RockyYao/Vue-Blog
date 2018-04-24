@@ -1,4 +1,4 @@
-# blog
+# 这是基于VUE写的blog前台，完善中
 
 > blog
 
